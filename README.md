@@ -4,7 +4,7 @@ Es una aplicación que compara distintos tipos de métodos de ordenamiento y mue
 
 __De forma general__
 
-El programa crea diferentes listas desordenadas de tipo entero, otro método se encarga de pintar la lista desordenada en la interfaz y por último los métodos 
+El programa crea diferentes listas desordenadas de numeros entero, otro método se encarga de pintar la lista desordenada en la interfaz y por último los métodos 
 ordenan las listas.
 
 Al iniciar se crean los hilos de ejecución concurrentes para cada uno de los métodos, es en ese punto donde el programa empezara a ordenar las listas.
